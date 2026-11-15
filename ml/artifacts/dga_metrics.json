@@ -1,0 +1,13 @@
+{
+  "model": "RandomForestClassifier",
+  "best_params": {
+    "n_estimators": 300,
+    "min_samples_leaf": 2,
+    "max_features": "sqrt",
+    "max_depth": null
+  },
+  "cv_macro_f1": 0.803,
+  "test_macro_f1": 0.773,
+  "n_train": 2144,
+  "n_test": 536
+}
